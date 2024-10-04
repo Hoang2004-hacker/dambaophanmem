@@ -1,0 +1,21 @@
+Tên xe: BMW 320i M Sport 2024
+
+Thương hiệu: BMW
+
+Kiểu dáng: Sedan
+
+Số chỗ: 5
+
+Động cơ: “B48” 184 Hp, Xăng 2.0L TwinPower Turbo.
+
+Hộp số: Tự động 8 cấp Steptronic.
+
+Tăng tốc ( 0 -100): 7,1s
+
+Tiêu thụ nhiên liệu trung bình(L/100 km): 5,5-6,4 Lít.
+
+Kích thước( Dài / Rộng / Cao): 47013 – 1827 – 1440 (mm).
+
+Chiều dài cơ sở: 2851 (mm).
+
+Trang bị gói: “Sport Line” thể thao cáo cấp.

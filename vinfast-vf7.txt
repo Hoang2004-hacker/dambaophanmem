@@ -1,0 +1,21 @@
+Tên xe: VinFast VF7 Plus
+
+Thương hiệu: VinFast
+
+Kiểu dáng: SUV
+
+Số chỗ: 5 chỗ
+
+Động cơ: Mô-tơ điện 349 HP
+
+Hộp số: Tự động 1 cấp (EV)
+
+Tăng tốc (0 - 100 Km/h): Khoảng 5.8 giây
+
+Tiêu thụ nhiên liệu trung bình (Kw/100 km): 17.7 kWh/100 km 
+
+Kích thước (Dài / Rộng / Cao): 4.540 mm / 1.890 mm / 1.640 mm
+
+Chiều dài cơ sở: 2.840 mm
+
+Trang bị gói: ADAS Lv2
